@@ -23,7 +23,6 @@ Feel free to fork this repository and customize it as your own. Your feedback an
 * CSS
 * JavaScript
 * BootStrap
-* React
 
 **License:**
 
